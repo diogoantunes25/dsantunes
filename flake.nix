@@ -10,7 +10,8 @@
   {
     devShell.x86_64-linux = pkgs.mkShell {
       buildInputs = with pkgs; [
-        hugo
+        hexo-cli
+        nodejs_20
       ];
     };
   };

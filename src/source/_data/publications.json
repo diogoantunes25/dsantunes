@@ -1,0 +1,7 @@
+[
+    {
+       "name":"Alea-BFT",
+       "url":"https://www.usenix.org/conference/nsdi24/presentation/antunes",
+       "desc":"Practical Asynchronous Byzantine Fault Tolerance"
+    }
+]
